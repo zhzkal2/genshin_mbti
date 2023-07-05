@@ -1,0 +1,2 @@
+# genshin_mbti
+toyproject_genshin_mbti
